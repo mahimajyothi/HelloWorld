@@ -4,7 +4,7 @@ public class Test{
 	   
 	        
 			
-			   System.out.println("Hello india... more population");
+			   System.out.println("Hello india...");
 			   
 	        
 	    
